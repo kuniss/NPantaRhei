@@ -8,3 +8,4 @@ unversioned/
 *.userprefs
 *ReSharper*
 test-results/
+/.project
